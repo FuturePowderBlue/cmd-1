@@ -1,0 +1,14 @@
+﻿addmod 說明
+
+addmod 可以新增尚未安裝的模組
+
+
+使用方法如下
+
+	addmod [模組名稱] [模組伺服器位置(空白為官方)]
+
+程式會自動下載安裝模組
+
+請勿刪除"7z.exe" "7z.dll" "getamod.exe" 以及 "addmod.exe"以免 addmod 指令失效
+
+模組名稱輸入 all 安裝所有模組
